@@ -1,0 +1,15 @@
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.csproj.AssemblyReference.cache
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.AssemblyInfoInputs.cache
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.AssemblyInfo.cs
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.csproj.CoreCompileInputs.cache
+F:\CS30\functions assignment\bin\Debug\net6.0\functions assignment.exe
+F:\CS30\functions assignment\bin\Debug\net6.0\functions assignment.deps.json
+F:\CS30\functions assignment\bin\Debug\net6.0\functions assignment.runtimeconfig.json
+F:\CS30\functions assignment\bin\Debug\net6.0\functions assignment.dll
+F:\CS30\functions assignment\bin\Debug\net6.0\functions assignment.pdb
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.dll
+F:\CS30\functions assignment\obj\Debug\net6.0\refint\functions assignment.dll
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.pdb
+F:\CS30\functions assignment\obj\Debug\net6.0\functions assignment.genruntimeconfig.cache
+F:\CS30\functions assignment\obj\Debug\net6.0\ref\functions assignment.dll
